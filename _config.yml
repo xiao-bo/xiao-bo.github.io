@@ -5,6 +5,7 @@ description: "思緒爆炸時就會更新的儲思盆"
 #logo: 'assets/images/logo.png'
 #favicon: 'assets/images/logo.png'
 baseurl: /I_think__therefore_I_am
+url: "https://xiao-bo.github.io"  # GitHub Pages 網址
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 # subscribe config
